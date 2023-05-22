@@ -1,5 +1,12 @@
 # @backstage/plugin-catalog-backend-module-azure
 
+## 0.1.17
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-node@1.3.7
+
 ## 0.1.16
 
 ### Patch Changes

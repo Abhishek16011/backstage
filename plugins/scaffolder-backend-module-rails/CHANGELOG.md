@@ -1,5 +1,12 @@
 # @backstage/plugin-scaffolder-backend-module-rails
 
+## 0.4.15
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-scaffolder-backend@1.14.1
+
 ## 0.4.14
 
 ### Patch Changes

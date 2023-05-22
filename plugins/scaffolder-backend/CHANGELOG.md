@@ -1,5 +1,15 @@
 # @backstage/plugin-scaffolder-backend
 
+## 1.14.1
+
+### Patch Changes
+
+- cc936b529676: Fix handling of `optional` property in `catalog:register` scaffolder action
+- Updated dependencies
+  - @backstage/catalog-client@1.4.2
+  - @backstage/plugin-catalog-backend@1.9.2
+  - @backstage/plugin-catalog-node@1.3.7
+
 ## 1.14.0
 
 ### Minor Changes

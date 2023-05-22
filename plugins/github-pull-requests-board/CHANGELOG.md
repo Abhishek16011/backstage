@@ -1,5 +1,12 @@
 # @backstage/plugin-github-pull-requests-board
 
+## 0.1.13
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.6.1
+
 ## 0.1.12
 
 ### Patch Changes

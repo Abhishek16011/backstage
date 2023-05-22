@@ -1,5 +1,13 @@
 # @backstage/plugin-airbrake
 
+## 0.3.19
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.6.1
+  - @backstage/dev-utils@1.0.16
+
 ## 0.3.18
 
 ### Patch Changes

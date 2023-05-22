@@ -1,5 +1,11 @@
 # @backstage/catalog-client
 
+## 1.4.2
+
+### Patch Changes
+
+- cc936b529676: Updated API docs
+
 ## 1.4.1
 
 ### Patch Changes

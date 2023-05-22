@@ -1,5 +1,12 @@
 # @backstage/plugin-jenkins
 
+## 0.8.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.6.1
+
 ## 0.8.0
 
 ### Minor Changes

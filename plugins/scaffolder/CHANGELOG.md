@@ -1,5 +1,16 @@
 # @backstage/plugin-scaffolder
 
+## 1.13.2
+
+### Patch Changes
+
+- cda753a797b5: Forward `Authorization` header for `EventSource` when credentials are available.
+- Updated dependencies
+  - @backstage/catalog-client@1.4.2
+  - @backstage/plugin-scaffolder-react@1.4.1
+  - @backstage/plugin-catalog-react@1.6.1
+  - @backstage/integration-react@1.1.13
+
 ## 1.13.1
 
 ### Patch Changes

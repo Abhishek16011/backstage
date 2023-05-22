@@ -1,5 +1,12 @@
 # @backstage/plugin-entity-feedback-backend
 
+## 0.1.4
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-client@1.4.2
+
 ## 0.1.3
 
 ### Patch Changes

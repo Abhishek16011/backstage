@@ -1,5 +1,12 @@
 # @backstage/plugin-newrelic-dashboard
 
+## 0.2.12
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.6.1
+
 ## 0.2.11
 
 ### Patch Changes

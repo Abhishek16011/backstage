@@ -1,5 +1,12 @@
 # @backstage/plugin-periskop
 
+## 0.1.17
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.6.1
+
 ## 0.1.16
 
 ### Patch Changes

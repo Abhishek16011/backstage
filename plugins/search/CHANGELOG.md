@@ -1,5 +1,12 @@
 # @backstage/plugin-search
 
+## 1.3.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.6.1
+
 ## 1.3.0
 
 ### Minor Changes

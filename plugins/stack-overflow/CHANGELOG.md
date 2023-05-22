@@ -1,5 +1,13 @@
 # @backstage/plugin-stack-overflow
 
+## 0.1.16
+
+### Patch Changes
+
+- 41e8037a8a6d: Extract new plugin-home-react package and deprecate createCardExtension in plugin-home
+- Updated dependencies
+  - @backstage/plugin-home-react@0.1.0
+
 ## 0.1.15
 
 ### Patch Changes

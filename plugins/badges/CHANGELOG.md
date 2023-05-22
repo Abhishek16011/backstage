@@ -1,5 +1,12 @@
 # @backstage/plugin-badges
 
+## 0.2.43
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.6.1
+
 ## 0.2.42
 
 ### Patch Changes

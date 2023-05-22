@@ -1,5 +1,12 @@
 # @backstage/plugin-linguist
 
+## 0.1.4
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.6.1
+
 ## 0.1.3
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @backstage/plugin-techdocs
 
+## 1.6.3
+
+### Patch Changes
+
+- 956d09e8ea68: Change deprecated local references to import from shared `plugin-techdocs-react` plugin
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.6.1
+  - @backstage/integration-react@1.1.13
+
 ## 1.6.2
 
 ### Patch Changes
